@@ -9,4 +9,6 @@ package com.example.gittestfirst;
 class User {
 
     private int id;
+
+    private String name;
 }
